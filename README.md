@@ -1,5 +1,7 @@
 # FastAPI Application
 
+![Application Screenshot](images/test_enpoints.jpeg)
+
 ## Overview
 
 We moved app.py to src folder so it is easier for local development:
