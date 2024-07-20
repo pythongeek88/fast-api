@@ -4,6 +4,10 @@
 
 ## Overview
 
+Application on base of Fast API python package.
+Includes endpoints, tests, requirement files and install and usage description.
+For endpoints used recursive approach to get maximum flexibility.
+
 We moved app.py to src folder so it is easier for local development:
 we don't need to watch for changes in venv folder but we wanna have reload on changes.
 
